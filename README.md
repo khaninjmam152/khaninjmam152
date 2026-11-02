@@ -178,9 +178,16 @@ An application that converts natural language questions into SQL queries using a
 | 30 Days Power BI Micro Course | SkillCourse |
 | Microsoft Excel Beginners to Advanced | SkillCourse |
 | Data Analytics Course | 30 Days Coding |
-| Introduction to Front-End Development | Simplilearn SkillUp |
+| Hindi & English Typing Certificate | Horizon Higher Education Private Limited |
+
+### ⌨️ Additional Skills
+
+- **English Typing:** 60 WPM (Current Speed)
+- **Hindi Typing:** 35 WPM (Certified Speed)
+- **Certified English Typing Speed:** 52 WPM
 
 ---
+
 
 ## 📈 GitHub Analytics
 
